@@ -12,7 +12,7 @@ Though your reasons for setting out are yours and yours alone, you shall play a 
 >This campaign begins at [[Emberwatch]], a modest foothold in the [[Shadow-Wastes]] that will serve as your home base. Though things may seem dire at first, your successes through #Expedition will play a vital role in developing this flickering candle into a roaring bonfire.
 
 ___
-## Tone of Play
+# Tone of Play
 Lumeria is bleak, but not hopeless. The night is cruel, but the people are not. Scenes may touch on fear, loss, or isolation, but the story is about endurance and rebuilding rather than despair. **The world is dangerous** and the potential for death looms around every bend...
 
 >[!info] Player Safety
@@ -27,9 +27,9 @@ Lumeria is bleak, but not hopeless. The night is cruel, but the people are not. 
 >***Anyone who is seen to have any sort of pattern of unsafe behavior after being confronted by moderators to stop will be kicked from the campaign without exception.***
 
 ---
-## The West Marches Format
+# The West Marches Format
 Unlike more traditional D&D campaigns, **Lumeria: Reclamation** operates as a *West Marches* living world. There are no fixed parties or permanent GMs. The Guild's strength lies in its flexibility; Spears keep tabs on the quest board and choose where to strike, when to venture out, and with whom.
-### How It Works
+## How It Works
 - **Player-Driven Play:** Sessions happen because players choose a lead and organize an #Expedition to tackle it. You and other Spears select a quest from the `#quest-board` channel on the [Discord server](https://discord.com/channels/1425841599945904240/1426217591294132284) and propose a new session for players to join with the `/new session` command.
 - **Self-Contained Sessions:** Every expedition starts and ends within a single session. Outcomes feed back into the real world record and influence both how the Guild and overall world react in response.
 - **Rotating Parties and GMs:** The Guild is fluid. Groups change, and any player may eventually create additional characters or choose to take up the mantle of GM.
@@ -45,7 +45,7 @@ Unlike more traditional D&D campaigns, **Lumeria: Reclamation** operates as a *W
 >**Accuracy and clarity matter more than your prose. Please don't use ChatGPT when record-keeping, and feel free to have your notes be in or out of character!**
 
 ---
-## A Different Kind of Campaign
+# A Different Kind of Campaign
 The in-person/online sessions for this campaign are generally going to lean more heavily into **mechanical** play at the table due to the necessity of having every expedition cleanly concluded at the end of each self-contained adventure. That being said, there is still plenty of room for RP in this world. The true life of this campaign will not only come from what happens at the table, but from **what your Characters do outside the table at camp.**
 
 Allow for friendly rivalries to form and for a little bit of competitiveness happen *(as long as all parties remain comfortable and consenting)*. Your characters may come and go, but the Guild endures. Every expedition embarked on or vote cast in the weekly quartermaster poll works to push back the dark.
@@ -54,7 +54,7 @@ Allow for friendly rivalries to form and for a little bit of competitiveness hap
 >Time is ever-flowing. Just as the Guild develops weekly, so does the rest of the world, whether the Spears are watching or not...
 
 ___
-## Becoming a GM
+# Becoming a GM
 The Reclamation is at its strongest when there is not only a large active roster of Characters, but also a large active roster of GMs. If you've ever thought about GMing (or maybe a particular expedition is waiting and nobody else seems to be available), this campaign is built to make it possible and as easy as possible to jump into.
 
 - Message `@Guildmaster` on the Discord server to express your interest.
@@ -67,10 +67,10 @@ The Reclamation is at its strongest when there is not only a large active roster
 >If you ever run a session and feel unsafe, send me a private message and I'll do whatever is necessary to ensure that the campaign remains a safe and open place for new players and GMs alike to get engaged with the game
 
 ---
-## Quick Links
+##Quick Links
 - [[World Primer]] - An overview of Lumeria and its lore.
 - [[Character Creation]] - How to create your first #Spear and register via #Aegis.
-- [Quest Board](https://discord.com/channels/1425841599945904240/1426217591294132284) - Current missions and unresolved leads.
 - [[Aegis Manual]] - Guide for using the Guild's bound automation.
 - [[Quartermaster Reports]] - An overview of the Quartermaster system for camp expansion/improvement.
+- [Quest Board](https://discord.com/channels/1425841599945904240/1426217591294132284) - Current missions and unresolved leads.
 - [Player Safety Sheet](https://docs.google.com/spreadsheets/d/1YgE2Y7EiFpOXUkhMEw5mED4wWxnqjXcLSlazxbPugsM/edit?usp=sharing) - Direct link to Player Safety document for you to view/update prior to playing
