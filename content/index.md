@@ -67,7 +67,7 @@ The Reclamation is at its strongest when there is not only a large active roster
 >If you ever run a session and feel unsafe, send me a private message and I'll do whatever is necessary to ensure that the campaign remains a safe and open place for new players and GMs alike to get engaged with the game
 
 ---
-##Quick Links
+## Quick Links
 - [[World Primer]] - An overview of Lumeria and its lore.
 - [[Character Creation]] - How to create your first #Spear and register via #Aegis.
 - [[Aegis Manual]] - Guide for using the Guild's bound automation.
