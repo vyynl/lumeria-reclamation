@@ -4,7 +4,7 @@ draft: "false"
 description:
 tags:
 ---
-Lumeria is a world recently swallowed by a Calamity known as [[Nightfall]]. When the sun's divine aspect, [[Sael]], disappeared and light collapsed. Here is where you join the story. As civilization retreated to its only existing sanctuary of [[Calomir]], you have decided to answer the call of the newly-created [[Duskrunner Guild]]: a collection of explorers, scholars, and mercenaries who have chosen to carry the dying embers of the Light into the [[Shadow-Wastes]] for one reason or another. You have heard the call and answered as a #Spear, one of the few with a direct connection to [[The Aether]] allowing you to draw on its power to manipulate the material world.
+/Lumeria is a world recently swallowed by a Calamity known as [[Nightfall]]. When the sun's divine aspect, [[Sael]], disappeared and light collapsed. Here is where you join the story. As civilization retreated to its only existing sanctuary of [[Calomir]], you have decided to answer the call of the newly-created [[Duskrunner Guild]]: a collection of explorers, scholars, and mercenaries who have chosen to carry the dying embers of the Light into the [[Shadow-Wastes]] for one reason or another. You have heard the call and answered as a #Spear, one of the few with a direct connection to [[The Aether]] allowing you to draw on its power to manipulate the material world.
 
 Though your reasons for setting out are yours and yours alone, you shall play a vital role in the story of the world clawing back from the brink of annihilation.
 
@@ -16,9 +16,9 @@ ___
 Lumeria is bleak, but not hopeless. The night is cruel, but the people are not. Scenes may touch on fear, loss, or isolation, but the story is about endurance and rebuilding rather than despair. **The world is dangerous** and the potential for death looms around every bend...
 
 >[!info] Player Safety
->I take player safety very seriously. When joining please make sure to check the [Player Safety Sheet](https://docs.google.com/spreadsheets/d/1YgE2Y7EiFpOXUkhMEw5mED4wWxnqjXcLSlazxbPugsM/edit?usp=sharing) to see/add your own the Lines *(hard no's)* and Veils *(fade to black/not discussed in detail if they do occur)*.
+>I take player safety very seriously. When joining please make sure to check the [Player Safety Sheet](https://docs.google.com/spreadsheets/d/1YgE2Y7EiFpOXUkhMEw5mED4wWxnqjXcLSlazxbPugsM/edit?usp=sharing) to see/add your own the Lines *(hard no's)* and Veils *(fade to black/not discussed in detail if they do occur)*.s
 >
->Also know that I and your GMs are always available for session debriefs if anything that happens needs discussed as well as an anonymous `/report incident` command that will privately message me with no storage of your name or Discord ID if you wish to report on something anonymously.
+>Also know that I and your GMs are always available for session debriefs if anything that happens needs discussed as well as an anonymous `/moderation report` command that will privately message me with no storage of your name or Discord ID if you wish to report on something anonymously.
 >
 >Any player may pause or redirect a scene without justification.
 >
