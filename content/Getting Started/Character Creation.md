@@ -13,6 +13,7 @@ All character sheets for this campaign are going to be kept on [DiceCloud](https
 | ---------------- | -------------------------------------------------------- | ------------------------------ |
 | 5e 2014          | - Libraries Of Vexus (5e2014)<br>- Official LoV Homebrew | - DiceCloud 5th Edition SRD    |
 | 5e 2024          | - Libraries Of Vexus (5e2024)                            | - DiceCloud 5th Edition SRD    |
+
 Once you get setup with the right libraries for either game system, the ***Build*** tab of your character sheet will have a little tutorial to walk through getting your character built and teaching a bit about how to use the sheet. *This will all be covered when we meet to build characters together at Session 0*. Now for the more fun part...
 
 ---
