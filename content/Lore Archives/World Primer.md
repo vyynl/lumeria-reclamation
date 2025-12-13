@@ -4,7 +4,7 @@ draft: "false"
 description:
 tags:
 ---
-The world you're entering into was in the midst of a **Magical Industrial Revolution**. Spearheaded by those at [[The Grand Luminarium]] in [[Calomir]], but when [[Nightfall]] struck, a world at one point in balance became unstable. The sun vanished, the stars froze, and the boundaries between realities frayed. In the days(?) since, Light has become the measure of life itself. The darker the road ahead grows, the closer the world bends toward ruin.
+The world you're entering into was in the midst of a magical revolution. Spearheaded by those at [[The Grand Luminarium]] in [[Calomir]], but when [[Nightfall]] struck, a world at one point in balance became unstable. The sun vanished, the stars froze, and the boundaries between realities frayed. In the days(?) since, Light has become the measure of life itself. The darker the road ahead grows, the closer the world bends toward ruin.
 
 ---
 # The State of the World
